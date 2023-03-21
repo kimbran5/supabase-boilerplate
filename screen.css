@@ -1,1 +1,8 @@
-/* Add screen styles below */
+table {
+    text-align: left;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 4px;
+  }
